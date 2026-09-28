@@ -1,0 +1,86 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: line 16: has_option: command not found
+/etc/X11/Xsession.d/50x11-common_determine-startup: line 10: has_option: command not found
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/etc/X11/Xsession.d/75dbus_dbus-launch: line 9: has_option: command not found
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: line 9: has_option: command not found
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting NMAP_PRIVILEGED=
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting PWD=/home/kali
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting LOGNAME=kali
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/kali
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting HOME=/home/kali
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=kali
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting PATH=/home/kali/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/home/kali/.dotnet/tools
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 08:54:35.901: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 08:54:35.901: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 08:54:35.901: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 08:54:35.901: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent: a gpg-agent is already running - not starting a new one
+** Message: 08:54:36.465: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:1378): xfwm4-WARNING **: 08:54:37.466: Another compositing manager is running on screen 0
+** Message: 08:54:39.292: Unable to migrate old setting /backdrop/screen0/monitor2/image-show; monitor 2 is not currently attached
+** Message: 08:54:39.294: Unable to migrate old setting /backdrop/screen0/monitor4/image-path; monitor 4 is not currently attached
+** Message: 08:54:39.295: Unable to migrate old setting /backdrop/screen0/monitor3/image-show; monitor 3 is not currently attached
+** Message: 08:54:39.296: Unable to migrate old setting /backdrop/screen0/monitor1/last-single-image; monitor 1 is not currently attached
+** Message: 08:54:39.299: Unable to migrate /backdrop/screen0/monitor0/color2 to RGBA as it contains invalid data
+** Message: 08:54:39.300: Unable to migrate old setting /backdrop/screen0/monitor1/color2; monitor 1 is not currently attached
+** Message: 08:54:39.300: Unable to migrate old setting /backdrop/screen0/monitor1/brightness; monitor 1 is not currently attached
+** Message: 08:54:39.301: Unable to migrate old setting /backdrop/screen0/monitor4/image-style; monitor 4 is not currently attached
+** Message: 08:54:39.301: Unable to migrate old setting /backdrop/screen0/monitor3/image-style; monitor 3 is not currently attached
+** Message: 08:54:39.302: Unable to migrate old setting /backdrop/screen0/monitor4/image-show; monitor 4 is not currently attached
+** Message: 08:54:39.302: Unable to migrate old setting /backdrop/screen0/monitor2/image-style; monitor 2 is not currently attached
+** Message: 08:54:39.305: Unable to migrate /backdrop/screen0/monitor0/color1 to RGBA as it contains invalid data
+** Message: 08:54:39.306: Unable to migrate old setting /backdrop/screen0/monitor1/last-image; monitor 1 is not currently attached
+** Message: 08:54:39.309: Unable to migrate old setting /backdrop/screen0/monitor1/image-path; monitor 1 is not currently attached
+** Message: 08:54:39.312: Unable to migrate old setting /backdrop/screen0/monitor2/image-path; monitor 2 is not currently attached
+** Message: 08:54:39.313: Unable to migrate old setting /backdrop/screen0/monitor1/image-style; monitor 1 is not currently attached
+** Message: 08:54:39.323: Unable to migrate old setting /backdrop/screen0/monitor3/image-path; monitor 3 is not currently attached
+** Message: 08:54:39.333: Unable to migrate old setting /backdrop/screen0/monitor1/color1; monitor 1 is not currently attached
+** Message: 08:54:39.333: Unable to migrate old setting /backdrop/screen0/monitor1/color-style; monitor 1 is not currently attached
+** Message: 08:54:39.334: Unable to migrate old setting /backdrop/screen0/monitor1/image-show; monitor 1 is not currently attached
+
+(polkit-mate-authentication-agent-1:1628): GLib-CRITICAL **: 08:54:40.227: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-mate-authentication-agent-1:1628): polkit-mate-1-WARNING **: 08:54:40.228: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(vmware-user:1576): Gtk-WARNING **: 08:54:41.380: gtk_disable_setlocale() must be called before gtk_init()
+
+(wrapper-2.0:1508): xfce4-power-manager-plugin-WARNING **: 08:54:41.950: Xfce4-power-manager: The panel plugin is present, so the tray icon gets disabled.
+blueman-applet 08.54.42 WARNING  PluginManager:153 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 08.54.42 WARNING  PluginManager:153 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 08.54.42 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+qt.accessibility.atspi: AtSpiAdaptor::applicationInterface does not implement "GetApplicationBusAddress" "/org/a11y/atspi/accessible/root"
+qt.accessibility.atspi: AtSpiAdaptor::applicationInterface does not implement "GetApplicationBusAddress" "/org/a11y/atspi/accessible/root"
+qt.accessibility.atspi: AtSpiAdaptor::applicationInterface does not implement "GetApplicationBusAddress" "/org/a11y/atspi/accessible/root"
+qt.accessibility.atspi: AtSpiAdaptor::applicationInterface does not implement "GetApplicationBusAddress" "/org/a11y/atspi/accessible/root"
+qt.accessibility.atspi: AtSpiAdaptor::applicationInterface does not implement "GetApplicationBusAddress" "/org/a11y/atspi/accessible/root"
+qt.accessibility.atspi: AtSpiAdaptor::applicationInterface does not implement "GetApplicationBusAddress" "/org/a11y/atspi/accessible/root"
+qt.accessibility.atspi: AtSpiAdaptor::applicationInterface does not implement "GetApplicationBusAddress" "/org/a11y/atspi/accessible/root"
